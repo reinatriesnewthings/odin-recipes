@@ -1,3 +1,3 @@
 # odin-recipes
-This is the "Recipes" project from The Odin Project. In this project, I will build a basic recipe website. The website will consist of a main index page which will have links to a few recicpes.
-Through this project, I will demonstrate my ability to create a website, create an index page, and link to other pages within a website. 
+This is the "Recipes" project from The Odin Project. In this project, I built a basic recipe website. The website has a main index page which will have links to a few different pages with different recipes.
+Through this project, I demonstrated my ability to create a website, link to other pages and images within a website, and write ordered and unordered lists using HTML. 
